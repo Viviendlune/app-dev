@@ -23,4 +23,3 @@ The Beach Game stands out as a turning point, where the characters face a series
 ### Favorite Quote
 > "In this world, only those who create a new path will find a way to live."
 
-This Markdown structure provides a detailed overview of the series *Alice in Borderland* on GitHub, using headers, lists, emphasis, and a block quote to convey information about the show without incorporating any specific code snippets.
