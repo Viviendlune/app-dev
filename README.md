@@ -2,7 +2,7 @@
 # Alice in Borderland
 
 ## Overview
-*Alice in Borderland* is a Japanese suspense thriller series available on Netflix, adapted from the manga of the same name by Haro Aso. The story centers around Ryohei Arisu, a listless young man, and his friends, who find themselves transported to a deserted version of Tokyo where they must participate in dangerous games to survive.
+*this is wrong delete it Alice in Borderland* is a Japanese suspense thriller series available on Netflix, adapted from the manga of the same name by Haro Aso. The story centers around Ryohei Arisu, a listless young man, and his friends, who find themselves transported to a deserted version of Tokyo where they must participate in dangerous games to survive.
 
 ### Plot Summary
 Ryohei Arisu, along with his friends Karube and Usagi, suddenly finds themselves in an eerie and abandoned Tokyo. To stay alive in this desolate parallel world, they must play a series of deadly games, each with its own set of rules and challenges. As they navigate through these life-threatening trials, they uncover the dark secrets of this distorted reality.
