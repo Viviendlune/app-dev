@@ -2,7 +2,7 @@
 
 ## Overview
 
-"hays Stranger Things" is a Netflix original science fiction-horror series created by the Duffer Brothers. It premiered on July 15, 2016, and quickly gained popularity for its nostalgic references to 1980s pop culture.
+"STI chat bot AI hays Stranger Things" is a Netflix original science fiction-horror series created by the Duffer Brothers. It premiered on July 15, 2016, and quickly gained popularity for its nostalgic references to 1980s pop culture.
 
 ## Plot
 
