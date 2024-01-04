@@ -1,4 +1,4 @@
-pagod na ako
+bago na ito
 
 # Alice in Borderland
 
